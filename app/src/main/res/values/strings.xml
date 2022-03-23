@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewModel Practice</string>
+    <string name="minus_text">Minus (-)</string>
+    <string name="plus_text">Plus (+)</string>
+</resources>
